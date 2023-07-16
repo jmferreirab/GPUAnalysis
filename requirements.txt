@@ -1,0 +1,5 @@
+kaleido         # plotly static image export
+nbformat        # vscode jupyter plotly plots
+chart-studio    # to import plotly
+seaborn
+pandas

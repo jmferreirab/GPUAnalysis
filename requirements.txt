@@ -1,5 +1,8 @@
-kaleido         # plotly static image export
-nbformat        # vscode jupyter plotly plots
-chart-studio    # to import plotly
-seaborn
-pandas
+ipykernel==6.30.1               # jupyter kernel
+kaleido==1.0.0                  # plotly static image export
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+nbformat==5.10.4                 # vscode jupyter plotly plots
+pandas==2.3.2
+plotly==6.3.0
+seaborn==0.13.2

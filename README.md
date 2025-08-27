@@ -1,7 +1,7 @@
 # Data Visualization Results
 
-![](https://github.com/jmferreirab/GPUAnalysis/blob/master/Performance%20to%20price%20ratio%20(higher%20is%20better)%20-%20512x512%20Gens.png?raw=true)
-![](https://github.com/jmferreirab/GPUAnalysis/blob/master/Seconds%20per%20image%20(lower%20is%20better)%20-%20512x512%20Gens.png?raw=true)
+![](https://github.com/jmferreirab/GPUAnalysis/blob/master/output/figures/iterations-per-second-higher-is-better-512x512-gens.png?raw=true)
+![](https://github.com/jmferreirab/GPUAnalysis/blob/master/output/figures/seconds-per-image-lower-is-better-512x512-gens.png?raw=true)
 
 # Contents
 
